@@ -1,0 +1,63 @@
+​
+​
+a,
+.button {
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+​
+​
+a:focus,
+.button:focus, button:focus {
+  text-decoration: none;
+  outline: none;
+}
+​
+​
+a:focus {
+  text-decoration: none;
+}
+​
+​
+a:focus,
+a:hover,
+.portfolio-cat a:hover,
+.footer -menu li a:hover {
+  text-decoration: none;
+}
+​
+​
+a,
+button {
+  color: #1F1F1F;
+  outline: medium none;
+}
+​
+​
+h1, h2, h3, h4, h5 {
+  font-family: "Roboto", sans-serif;
+  color: #191d34;
+}
+​
+​
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  color: inherit;
+}
+​
+​
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+​
+​
+li {
+  list-style: none;
+}
